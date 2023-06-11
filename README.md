@@ -23,3 +23,10 @@ $$J(w,b) = \frac{1}{2m} \sum\limits_{i = 0}^{m-1} (f_{w,b}(x^{(i)}) - y^{(i)})^2
 - goal:
 
 minimize J(w,b)
+
+
+### Gradient descent
+
+I used Gradient descent to minimize my cost function.
+
+
