@@ -46,5 +46,5 @@ $$
 \end{align}
 $$
 * m is the number of training examples in the data set
-I used Gradient descent to minimize my cost function.
+
 
