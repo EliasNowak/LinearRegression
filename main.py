@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-
 # model: f(x) = wx + b
 # parameters: w,b
 # cost function: J(w,b)=1/2m * sum(f(x)-y)^2
